@@ -1,0 +1,129 @@
+[
+    {
+        "name": "Chicken",
+        "amount": 100.0,
+        "nutritional_info": {
+            "calories": 100.0,
+            "protein": 5.0,
+            "fat": 3.0
+        }
+    },
+    {
+        "name": "Broccoli",
+        "amount": 50.0,
+        "nutritional_info": {
+            "calories": 20.0,
+            "protein": 2.0,
+            "fat": 0.5
+        }
+    },
+    {
+        "name": "Olive Oil",
+        "amount": 15.0,
+        "nutritional_info": {
+            "calories": 120.0,
+            "protein": 0.0,
+            "fat": 13.5
+        }
+    },
+    {
+        "name": "All-purpose flour",
+        "amount": 2.5,
+        "nutritional_info": {
+            "calories": 120,
+            "protein": 2.5,
+            "fat": 1.5
+        }
+    },
+    {
+        "name": "Baking powder",
+        "amount": 0.5,
+        "nutritional_info": {
+            "calories": 50,
+            "protein": 0.5,
+            "fat": 0.5
+        }
+    },
+    {
+        "name": "Salt",
+        "amount": 0.25,
+        "nutritional_info": {
+            "calories": 25,
+            "protein": 0.25,
+            "fat": 0.25
+        }
+    },
+    {
+        "name": "Eggs",
+        "amount": 2,
+        "nutritional_info": {
+            "calories": 120,
+            "protein": 2,
+            "fat": 10
+        }
+    },
+    {
+        "name": "Milk",
+        "amount": 0.5,
+        "nutritional_info": {
+            "calories": 50,
+            "protein": 0.5,
+            "fat": 0.5
+        }
+    },
+    {
+        "name": "Chocolate chips",
+        "amount": 1,
+        "nutritional_info": {
+            "calories": 100,
+            "protein": 0.5,
+            "fat": 10
+        }
+    },
+    {
+        "name": "Nuts",
+        "amount": 0.5,
+        "nutritional_info": {
+            "calories": 50,
+            "protein": 0.5,
+            "fat": 0.5
+        }
+    },
+    {
+        "name": "Spinach",
+        "amount": 50.0,
+        "nutritional_info": {
+            "calories": 10.0,
+            "protein": 1.0,
+            "fat": 0.1
+        }
+    },
+    {
+        "name": "Tomatoes",
+        "amount": 100.0,
+        "nutritional_info": {
+            "calories": 20.0,
+            "protein": 1.0,
+            "fat": 0.3
+        }
+    },
+    {
+        "name": "Quinoa",
+        "amount": 50.0,
+        "nutritional_info": {
+            "calories": 110.0,
+            "protein": 4.0,
+            "fat": 1.8
+        }
+    },
+    {
+        "name": "Avocado",
+        "amount": 75.0,
+        "nutritional_info": {
+            "calories": 160.0,
+            "protein": 2.0,
+            "fat": 15.0
+        }
+    }
+]
+

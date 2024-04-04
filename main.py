@@ -2,7 +2,7 @@
 import starlette.status as status
 from fastapi import FastAPI
 from fastapi.responses import RedirectResponse
-from routes.index import ingredients, recipes
+from routes import ingredients, recipes
 
 # Creating the FastAPI server instance
 server = FastAPI()
@@ -35,4 +35,3 @@ if __name__ == "__main__":
 
     # Running the FastAPI server with uvicorn
     uvicorn.run("main:server", host=HOST, port=PORT, reload=True)
-
