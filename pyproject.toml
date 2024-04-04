@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "apf-recipe-management-restapi"
+version = "0.1.0"
+description = "this rest api manages recipes, their ingredients and nutritional information"
+authors = ["miraclemenikelechi <https://www.github.com/miraclemenikelechi>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.110.1"
+uvicorn = "^0.29.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
