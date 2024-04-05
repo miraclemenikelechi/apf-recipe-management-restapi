@@ -2,7 +2,11 @@ from fastapi import APIRouter, HTTPException
 from fastapi.encoders import jsonable_encoder
 from fastapi.responses import JSONResponse
 
-from controllers import get_all_ingredients, create_new_ingredient, update_an_ingredient
+from controllers import (
+    create_new_ingredient,
+    get_all_ingredients,
+    update_an_ingredient,
+)
 from models import Ingredient, UpdateIngredient
 
 ingredients = APIRouter(prefix="/ingredients", tags=["ingredients"])
