@@ -75,5 +75,4 @@ class Recipe(BaseModel):
     servings: PositiveFloat = Field(
         gt=0,
         description="the number of servings",
-        precision=2,
     )

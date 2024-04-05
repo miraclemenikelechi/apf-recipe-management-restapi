@@ -1,0 +1,1 @@
+from .load_from_local_json import load_data
